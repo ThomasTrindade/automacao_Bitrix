@@ -10,7 +10,7 @@ Modelo da planilha:
 
 | A (`author_id`) | B (`Nome`) |
 |---|---|
-| 29184 | *(preenchido pelo script)* |
+| 00000 | *(preenchido pelo script)* |
 
 - Linha 1: cabeçalho.
 - Dados a partir da linha 2.
